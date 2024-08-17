@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)](https://geetanshimaheshwari.io)
 <h1 align="center">Hii !! , I'm Geetanshi Maheshwari</h1>
 <h3 align="center">I am a Physics Undergraduate Student with a keen interest in Machine Learning and its applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/machine-learning-as-a-service--725501821201933835/">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/elmer-sheep-thumbs-up-like-approved-gif-10765417">
 
 - I’m looking to collaborate on **more data analysis and machine learning projects.**
 
